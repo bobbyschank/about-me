@@ -7,11 +7,13 @@ Before WDI I was a bartender / server in Wyoming Montana and Colorado.
 ## Outcomes Support
 
 Networking
+
 Interview Prep
 
 ## Goals:
 
 I want to launch my own mobile apps.
+
 Land a satisfying a job in web development.
 
 ## Two truths and a lie:
