@@ -16,6 +16,9 @@ I want to launch my own mobile apps.
 
 Land a satisfying a job in web development.
 
+## Jobs
+Open, but leaning towards mid sized product.
+
 ## Two truths and a lie:
 
 A monkey stole my phone and passport in Venezuela.
