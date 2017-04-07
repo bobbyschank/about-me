@@ -19,6 +19,9 @@ Land a satisfying a job in web development.
 ## Jobs
 Open, but leaning towards mid sized product.
 
+## [LinkedIn](https://www.linkedin.com/in/robert-schank/)
+
+
 ## Two truths and a lie:
 
 A monkey stole my phone and passport in Venezuela.
